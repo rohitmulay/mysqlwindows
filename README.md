@@ -27,3 +27,21 @@ You can select any type as per your needs.
 You can now see the MySQL product in the Installation with a status "Ready to install" now click on "Execute"
 
 <img src="https://image.ibb.co/gM4J9F/Screenshot_376.png" alt="Screenshot_376" border="1">
+
+Click "Next" for Product Configuration.
+
+<img src="https://image.ibb.co/hqhOW5/Screenshot_377.png" alt="Screenshot_377" border="1">
+
+I recommend you to go for "Standalone MySQL Server" and click "Next" 
+
+<img src="https://image.ibb.co/kYGHr5/Screenshot_378.png" alt="Screenshot_378" border="1">
+
+Keep the default settings as it is and press "Next" 
+
+<img src="https://image.ibb.co/iB5GjQ/Screenshot_379.png" alt="Screenshot_379" border="1">
+
+Set root password as "root123", if you want you can also set the password you desire to. 
+
+<img src="https://image.ibb.co/mNgQB5/Screenshot_380.png" alt="Screenshot_380" border="1">
+
+ 
