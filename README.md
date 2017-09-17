@@ -1,11 +1,11 @@
 # mysqlwindows
 <h2>MySQL Installation Procedure on Windows </h2>
 
-Go to https://dev.mysql.com/downloads/installer/ , You will find two files. 
+Go to https://dev.mysql.com/downloads/installer/ , you will find two files. 
 
 <img src="https://image.ibb.co/iS7PGv/Screenshot_390.png" alt="Screenshot_390" border="1"> 
 
-The <a href="https://dev.mysql.com/downloads/file/?id=471660"> first</a> one is the web version which will download the required files from the internet during the installation and the<a href="https://dev.mysql.com/downloads/file/?id=471661"> second </a> one will install the MySQL Server directly. That is why there is a dramatic difference in the size of the two files. 
+The <a href="https://dev.mysql.com/downloads/file/?id=471660"> first </a> one is the web version which will download the required files from the internet during the installation and the <a href="https://dev.mysql.com/downloads/file/?id=471661"> second </a>  one will install the MySQL Server directly. That is why there is a dramatic difference in the size of the two files. 
 
 Download the file as per you conveniences and run it. 
 
@@ -52,17 +52,17 @@ In Plugins and Extension do not Enable X Protocol, Leave the Default as it is an
 
 <img src="https://image.ibb.co/iko3Yk/Screenshot_382.png" alt="Screenshot_382" border="1">
 
-To Apply The Configuration click "Execute". 
+To Apply the Configuration click "Execute". 
 
 <img src="https://image.ibb.co/dppGm5/Screenshot_384.png" alt="Screenshot_384" border="1">
 
-If everything goes well, The configuration will complete and then click "Finish". 
+If everything goes well, the configuration will complete and then click "Finish". 
 
 <img src="https://image.ibb.co/mGEADk/Screenshot_386.png" alt="Screenshot_386" border="1">
 
-You have now sucessfully completed the installation procedure of MySQL.
+You have now successfully completed the installation procedure of MySQL.
 
-To run your MySQL Server go to "Start" on your taskbar, you will find a command promt icon with the name "MySQL 5.7 Command Line Client"
+To run your MySQL Server go to "Start" on your taskbar, you will find a command prompt icon with the name "MySQL 5.7 Command Line Client"
 double click on it. 
 
 <img src="https://image.ibb.co/c87fDk/Screenshot_387.png" alt="Screenshot_387" border="1">
@@ -72,7 +72,7 @@ Enter the password what you set while installation (root123) and press "Enter".
 
 <img src="https://image.ibb.co/jmfxR5/Screenshot_388.png" alt="Screenshot_388" border="1">
 
-Congratulations! You are now into the MySQL Server and ready to execute the quries you want. 
+Congratulations! You are now into the MySQL Server and ready to execute the queries you want. 
 
 <img src="https://image.ibb.co/etv8Yk/Screenshot_389.png" alt="Screenshot_389" border="1">
  
