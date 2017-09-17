@@ -40,8 +40,39 @@ Keep the default settings as it is and press "Next"
 
 <img src="https://image.ibb.co/iB5GjQ/Screenshot_379.png" alt="Screenshot_379" border="1">
 
-Set root password as "root123", if you want you can also set the password you desire to. 
+Set root password as "root123", if you want you can also set the password you desire and click "Next". 
 
 <img src="https://image.ibb.co/mNgQB5/Screenshot_380.png" alt="Screenshot_380" border="1">
 
+You need to set "Windows Service Name", I recommend you to leave the default name as it is and proceed further by clicking "Next".
+
+<img src="https://image.ibb.co/mRM13k/Screenshot_381.png" alt="Screenshot 381" border="1">
+
+In Plugins and Extension do not Enable X Protocol, Leave the Default as it is and click "Next".
+
+<img src="https://image.ibb.co/iko3Yk/Screenshot_382.png" alt="Screenshot_382" border="1">
+
+To Apply The Configuration click "Execute". 
+
+<img src="https://image.ibb.co/dppGm5/Screenshot_384.png" alt="Screenshot_384" border="1">
+
+If everything goes well, The configuration will complete and then click "Finish". 
+
+<img src="https://image.ibb.co/mGEADk/Screenshot_386.png" alt="Screenshot_386" border="1">
+
+You have now sucessfully completed the installation procedure of MySQL.
+
+To run your MySQL Server go to "Start" on your taskbar, you will find a command promt icon with the name "MySQL 5.7 Command Line Client"
+double click on it. 
+
+<img src="https://image.ibb.co/c87fDk/Screenshot_387.png" alt="Screenshot_387" border="1">
+
+A black screen window will open, that is nothing but the command promt window and it will ask you to "Enter password:".
+Enter the password what you set while installation (root123) and press "Enter".
+
+<img src="https://image.ibb.co/jmfxR5/Screenshot_388.png" alt="Screenshot_388" border="1">
+
+Congratulations! You are now into the MySQL Server and ready to execute the quries you want. 
+
+<img src="https://image.ibb.co/etv8Yk/Screenshot_389.png" alt="Screenshot_389" border="1">
  
