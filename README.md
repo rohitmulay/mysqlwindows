@@ -28,6 +28,16 @@ You can now see the MySQL product in the Installation with a status "Ready to in
 
 <img src="https://image.ibb.co/gM4J9F/Screenshot_376.png" alt="Screenshot_376" border="1">
 
+If you get the status as "Failed" Install Visual C++ Redistributable Packages for Visual Studio 2013 and the reinstall MySQL.
+
+<a href="https://drive.google.com/file/d/0B30suEpCCuuLT1ktb1V6eEpnejA/view?usp=sharing">Visual C++ Redistributable Packages for Visual Studio 2013 (x86 32 bit) </a>
+
+<a href="https://drive.google.com/open?id=0B30suEpCCuuLWFB4R3RaMW1WLUU">Visual C++ Redistributable Packages for Visual Studio 2013 (x64 64 bit)</a>
+
+<a href="https://drive.google.com/open?id=0B30suEpCCuuLVGJGTHVIWjk3cG8">Visual C++ Redistributable Packages for Visual Studio 2013 (arm)</a> 
+
+<img src="https://image.ibb.co/bEh0Dk/New_Doc_2017_09_17_1_2.jpg" alt="New_Doc_2017_09_17_1_2" border="1">
+
 Click "Next" for Product Configuration.
 
 <img src="https://image.ibb.co/hqhOW5/Screenshot_377.png" alt="Screenshot_377" border="1">
